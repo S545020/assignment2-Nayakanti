@@ -24,3 +24,13 @@
 
 
 [Link to AboutMe file](https://github.com/S545020/assignment2-Nayakanti/blob/main/AboutMe.md)
+
+---
+# Table Creation using Markdown language
+Below Table describles the food items that someone must try. The Table consists of name of food items and the place where these items will be avalible and then cost of the particular food item.
+| Name of Food Item | Location | Cost of Item |
+| --- | --- | ---: |
+| Biryani| Hyderabad | $30 |
+| Momos | Kolkata| $10 |
+| Pani Puri | Maharashtra | $5 |
+| Fish Fry | Kolkata | $25 |
