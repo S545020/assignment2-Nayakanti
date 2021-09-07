@@ -13,3 +13,10 @@
    3. Once reaching Melbourne Airport take a ride to Victoria.
    4. After Reaching Victoria take a motel to stay until your trip.
 3. Finally Reached at your Favourite Place.
+* Below are the foods that are bought to my favourite place
+   * Meat
+   * Alcohol
+   * Playing Cards
+   * Food
+   * FireWood
+   * DJ speakers
