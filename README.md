@@ -34,3 +34,8 @@ Below Table describles the food items that someone must try. The Table consists 
 | Momos | Kolkata| $10 |
 | Pani Puri | Maharashtra | $5 |
 | Fish Fry | Kolkata | $25 |
+---
+# Block Quotes usage in Markdown language
+> Life is from the inside out. When you shift on the inside life shifts on the outside. *Marcus Aurelius*
+
+> The Happiness of your life depends on the quality of your thougths. *Seneca*
